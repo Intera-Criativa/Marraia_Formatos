@@ -50,7 +50,7 @@ body{
 
 .container-principal{
     height: 100vh;
-    background-image: url(../imagens/ImgBackground.jpg);
+    background-image: url(./imagens/ImgBackground.jpg);
     background-position:center;
     background-size: 80%;
     padding: 10vh;
